@@ -1,2 +1,3 @@
 # DEMO-Naresh
-this is my first repo
+this is my first repository
+Author-Nareshkumar
