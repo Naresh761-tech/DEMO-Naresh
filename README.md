@@ -1,4 +1,4 @@
-# DEMO-Naresh
+# DEMONaresh
 this is my first repository.
 <br>
 Author-Nareshkumar
